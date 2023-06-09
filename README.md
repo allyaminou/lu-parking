@@ -2,13 +2,15 @@
 Parking System created by Retro21
 
 ## What is this script?
-This script is parking system. With this script you can park vehicle where ever you want. And it will be there even after server restart. 
+This script is a parking system that allows you to park vehicles wherever you want, and they will remain there even after a server restart. It also includes a police impounding system, allowing users who roleplay as cops to impound parked vehicles.
+
 
 ## About This Script
 
-This scripts idea is inspiered from Latvian Fivem RolePlay server named "Kalnu Ieleja". I was an admin a while ago and decided to leave because it was too much for me. But no when I am again interested in Lua/Fivem development a wanted to recreate the famose parking script. Big thanks I am saying to ImKompots. The original parking script creator from what I took the inspiaration to recreat this script. This script is not as prefect and optimized as the one that ImKompts created for Kalnu Ieleja. But has the same idea -/+. This is my created code from scratch so there might be some problems with it.
+This script's idea is inspired by the Latvian FiveM RolePlay server named "Kalnu Ieleja." I was an admin a while ago and decided to leave because it was too much for me. But now, when I am again interested in Lua/FiveM development, I wanted to recreate the famous parking script. I want to give a big credit to ImKompots, the original parking script creator from whom I took the inspiration to recreate this script. This script is not as perfect and optimized as the one ImKompots created for Kalnu Ieleja, but it has the same idea. This is my own code created from scratch, so there might be some problems with it.
 
-First I wanted to sell this script. I even publised a store side and advertised in cfx forms. But then I ffigured why try to sell? I wont earn from it. So I am deciding to publish it for free.
+
+First, I wanted to sell this script. I even published a store site and advertised it on CFX forums. But then I figured, why should I try to sell it? I won't earn anything from it. So, I have decided to publish it for free.
 
 ## Dependencies
 
@@ -16,3 +18,11 @@ First I wanted to sell this script. I even publised a store side and advertised 
 - oxMYSQL
 - qb-core (For now. Will try to make it stand alone)
 
+## How to setup this script?
+
+
+- Place this resource in the servers resource folder.
+- Insert in database parking.sql script.
+- Edit sv_functions.lua cl_functions.lua and config.lua
+- And you are done
+- Enjoy
