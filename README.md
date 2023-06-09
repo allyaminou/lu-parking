@@ -4,7 +4,7 @@ Parking System created by Retro21
 ## What is this script?
 This script is a parking system that allows you to park vehicles wherever you want, and they will remain there even after a server restart. It also includes a police impounding system, allowing users who roleplay as cops to impound parked vehicles.
 
-Preview: https://github.com/jekabso21/lu-parking
+Preview: https://youtu.be/0pCKZ6aSlrs
 
 
 ## About This Script
