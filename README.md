@@ -26,3 +26,8 @@ First, I wanted to sell this script. I even published a store site and advertise
 - Edit sv_functions.lua cl_functions.lua and config.lua
 - And you are done
 - Enjoy
+
+-------------------------
+
+If you want me buy a coffe. https://ko-fi.com/retro21
+Love you all!
